@@ -8,8 +8,15 @@ Accepted as Conference Paper at the Fourteenth International Conference on Learn
   <img src='./assets/architecture.png' width="90%"/>
 </div>
 
+## 📰 Updates
+* **[May 2, 2026]** Checkpoints for language modeling (OWT) released.
+* **[Mar 2, 2026]** Initial release.
+
 ## Reproducing Results
 Please refer to the [Coding](./coding/) and [Language](./language/) folders for experiments with Dream and MDLM, respectively. 
+
+## Checkpoints Language Modeling
+Soft-masking checkpoints for language modeling (OpenWebText) can be found in this [Box folder](https://ibm.box.com/s/wy1glqp1a4if4tj0y7ifeascaflvnjjy). 
 
 ## Acknowlegement
 The coding part was built on top of [Dream-7B](https://github.com/DreamLM/Dream) and the langugae modeling part based on [Duo](https://github.com/s-sahoo/duo) and ReMDM [ReMDM](https://github.com/kuleshov-group/remdm).

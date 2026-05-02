@@ -26,6 +26,9 @@ To download and apply patches to files which are directly used from DUO, please 
 bash setup.sh
 ```
 
+## Checkpoints Language Modeling
+You can download the pretrained soft-masking checkpoints for language modeling (OpenWebText) from this [Box folder](https://ibm.box.com/s/wy1glqp1a4if4tj0y7ifeascaflvnjjy). They contain models in the iso-compute and iso-update regimes, both with pretraining continuation or training from scratch. 
+
 ## 🏋️‍♀️ Training the Models
 
 For training continuation, you have to first download the binary MDLM from this [Google drive folder](https://drive.google.com/drive/folders/16LuuptK7Xfk-vzhQYZBZ0SA-B-BFluau?usp=sharing) and specify the checkpoint's location in the [training script](./scripts/01_sm_pretraining_cont_owt.sh). Then, run
