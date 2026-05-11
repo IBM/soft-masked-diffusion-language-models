@@ -27,7 +27,7 @@ bash setup.sh
 ```
 
 ## Checkpoints Language Modeling
-You can download the pretrained soft-masking checkpoints for language modeling (OpenWebText) from this [Box folder](https://ibm.box.com/s/wy1glqp1a4if4tj0y7ifeascaflvnjjy). They contain models in the iso-compute and iso-update regimes, both with pretraining continuation or training from scratch. 
+You can download the pretrained soft-masking checkpoints for language modeling (OpenWebText) from this [Box folder](https://ibm.box.com/v/soft-masked-dlm-checkpoints). They contain models in the iso-compute and iso-update regimes, both with pretraining continuation or training from scratch. 
 
 ## 🏋️‍♀️ Training the Models
 
