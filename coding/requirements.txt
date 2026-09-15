@@ -12,7 +12,7 @@ Jinja2==3.1.6
 jsonlines==4.0.0
 langdetect==1.0.9
 math_verify==0.7.0
-nltk==3.9.1
+nltk==3.10.3
 numpy==2.3.3
 packaging==25.0
 pandas==2.3.2
