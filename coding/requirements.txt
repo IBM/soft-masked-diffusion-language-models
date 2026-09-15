@@ -6,7 +6,7 @@ evaluate==0.4.4
 gptqmodel==4.2.5
 gradio==5.47.0
 hf_transfer==0.1.9
-huggingface_hub==0.33.0
+huggingface_hub==1.31.0
 immutabledict==4.2.1
 Jinja2==3.1.6
 jsonlines==4.0.0
