@@ -16,7 +16,7 @@ nltk==3.10.3
 numpy==2.3.3
 packaging==25.0
 pandas==2.3.2
-peft==0.15.2
+peft==0.20.0
 promptsource==0.2.3
 pytablewriter==1.2.1
 pytest==8.4.1
