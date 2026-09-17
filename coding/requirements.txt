@@ -30,6 +30,6 @@ sqlitedict==2.1.0
 sympy==1.14.0
 torch==2.7.0
 tqdm==4.67.1
-transformers==5.10.1
+transformers==5.17.0
 zstandard==0.23.0
 github-clone
