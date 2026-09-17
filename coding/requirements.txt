@@ -28,7 +28,7 @@ scikit_learn==1.7.2
 setuptools==83.0.0
 sqlitedict==2.1.0
 sympy==1.14.0
-torch==2.7.0
+torch==2.13.0
 tqdm==4.67.1
 transformers==5.17.0
 zstandard==0.23.0
