@@ -1,6 +1,6 @@
 accelerate==1.6.0
 auto_gptq==0.7.1
-datasets==3.5.1
+datasets==5.0.1
 dill==0.4.1
 evaluate==0.4.4
 gptqmodel==4.2.5
